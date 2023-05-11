@@ -51,7 +51,9 @@ const media = [
 	"Sonic",
 	"Rick and Morty",
 	"Moral Orel",
-	"Warrior Cats"
+	"Warrior Cats",
+	"Regular Show",
+	"Danny Phantom"
 ];
 
 const person = [

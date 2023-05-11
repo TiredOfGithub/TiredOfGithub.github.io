@@ -357,7 +357,7 @@ switch (Math.floor(Math.random() * 39)) {
 		phrase = "This is why " + ebil + "s are a Threat to Society.";
 		break;
 	case 39:
-		phrase = "The Sexualization of " + media[mediaRan] "'s Characters is Seriously Problematic.";
+		phrase = "The Sexualization of " + media[mediaRan] "'s Characters is a Serious Problem.";
 		break;
 } 
 

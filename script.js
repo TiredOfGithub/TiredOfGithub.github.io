@@ -53,7 +53,8 @@ const media = [
 	"Moral Orel",
 	"Warrior Cats",
 	"Regular Show",
-	"Danny Phantom"
+	"Danny Phantom",
+	"Idiocracy"
 ];
 
 const person = [
@@ -88,7 +89,8 @@ const bs = [
 	"Dehumanization",
 	"Maoism",
 	"Stalinism",
-	"Eugenics"
+	"Eugenics",
+	"Autism"
 ];
 
 const celeb = [
@@ -320,7 +322,7 @@ switch (Math.floor(Math.random() * 38)) {
 		phrase = bs[bsRan] + ": An In-Depth Explanation."
 		break;
 	case 35:
-		phrase = "How " + media[mediaRan] + " is a Secret " + token[tokenRan] + " Allegory."
+		phrase = "How " + media[mediaRan] + " is an Allegory for " + bs[bsRan] + ".";
 		break;
 	case 36:
 		phrase = "How " + media[mediaRan] + " promotes " + bs[bsRan];

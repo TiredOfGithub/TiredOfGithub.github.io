@@ -275,7 +275,7 @@ switch (Math.floor(Math.random() * 38)) {
 				x = bs[bsRan];
 				break;
 		}
-		if (media[mediaRan] < 30 && media[mediaRan] > 26) {
+		if (media[mediaRan] < 29 && media[mediaRan] > 25) {
 			phrase = x + " Iceberg: A Deeper Look.";
 		} else {
 			phrase = "The " + x + " Iceberg: A Deeper Look.";

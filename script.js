@@ -54,7 +54,8 @@ const media = [
 	"Warrior Cats",
 	"Regular Show",
 	"Danny Phantom",
-	"Idiocracy"
+	"Idiocracy",
+	"Johnny Test"
 ];
 
 const person = [
@@ -90,7 +91,8 @@ const bs = [
 	"Maoism",
 	"Stalinism",
 	"Eugenics",
-	"Autism"
+	"Autism",
+	"Slavery"
 ];
 
 const celeb = [
@@ -114,7 +116,8 @@ const celeb = [
 	"StoneToss",
 	"Tucker Carlson",
 	"Ronald Reagan",
-	"Dave Chapelle"
+	"Dave Chapelle",
+	"Matt Groening"
 ];
 
 const adject = [

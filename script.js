@@ -92,7 +92,9 @@ const bs = [
 	"Stalinism",
 	"Eugenics",
 	"Autism",
-	"Slavery"
+	"Slavery",
+	"Neo-McCarthyism",
+	"Adultification"
 ];
 
 const celeb = [
@@ -232,7 +234,7 @@ switch (Math.floor(Math.random() * 38)) {
 		phrase = x + ": An Analysis.";
 		break;
 	case 17:
-		phrase = "How " + media[mediaRan] + " Propagates Neo-McCarthyism.";
+		phrase = "How " + media[mediaRan] + " Propagates " + bs[bsRan] + ".";
 		break;
 	case 18:
 		phrase = "Is " + media[mediaRan] + " a Feminist Franchise?";

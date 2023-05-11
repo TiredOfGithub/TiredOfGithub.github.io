@@ -176,6 +176,7 @@ personRan = Math.floor(Math.random() * person.length);
 celebRan = Math.floor(Math.random() * celeb.length);
 tokenRan = Math.floor(Math.random() * token.length);
 adjectRan = Math.floor(Math.random() * adject.length);
+ebilRan = Math.floor(Math.random() * ebil.length);
 
 switch (Math.floor(Math.random() * 39)) {
 	case 0:
@@ -354,10 +355,13 @@ switch (Math.floor(Math.random() * 39)) {
 		phrase = "Unpacking " + x + " and its Legacy."
 		break;
 	case 38:
-		phrase = "This is why " + ebil + "s are a Threat to Society.";
+		phrase = "This is why " + ebil[ebilRan] + "s are a Threat to Society.";
 		break;
 	case 39:
 		phrase = "The Sexualization of " + media[mediaRan] "'s Characters is a Serious Problem.";
+		break;
+	case 40:
+		phrase = "The Solution to " + ebil[ebilRan] + "s Running Amok in The " + media[mediaRan] + " Fandom.";
 		break;
 } 
 

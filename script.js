@@ -120,7 +120,10 @@ const celeb = [
 	"Tucker Carlson",
 	"Ronald Reagan",
 	"Dave Chapelle",
-	"Matt Groening"
+	"Matt Groening",
+	"Weird Al",
+	"John K.",
+	"Mike Judge"
 ];
 
 const adject = [

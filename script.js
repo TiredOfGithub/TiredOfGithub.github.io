@@ -55,7 +55,8 @@ const media = [
 	"Regular Show",
 	"Danny Phantom",
 	"Idiocracy",
-	"Johnny Test"
+	"Johnny Test",
+	"Dexter's Laboratory"
 ];
 
 const person = [

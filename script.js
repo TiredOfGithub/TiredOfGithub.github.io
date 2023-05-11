@@ -109,7 +109,8 @@ const celeb = [
 	"JonTron",
 	"StoneToss",
 	"Tucker Carlson",
-	"Ronald Reagan"
+	"Ronald Reagan",
+	"Dave Chapelle"
 ];
 
 const adject = [

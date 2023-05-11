@@ -56,7 +56,10 @@ const media = [
 	"Danny Phantom",
 	"Idiocracy",
 	"Johnny Test",
-	"Dexter's Laboratory"
+	"Dexter's Laboratory",
+	"Rozen Maiden",
+	"Animaniacs",
+	"Tiny Toons"
 ];
 
 const person = [
@@ -174,7 +177,7 @@ celebRan = Math.floor(Math.random() * celeb.length);
 tokenRan = Math.floor(Math.random() * token.length);
 adjectRan = Math.floor(Math.random() * adject.length);
 
-switch (Math.floor(Math.random() * 38)) {
+switch (Math.floor(Math.random() * 39)) {
 	case 0:
 		phrase = "The Hidden Genius of " + media[mediaRan] + ".";
 		break;
@@ -352,6 +355,9 @@ switch (Math.floor(Math.random() * 38)) {
 		break;
 	case 38:
 		phrase = "This is why " + ebil + "s are a Threat to Society.";
+		break;
+	case 39:
+		phrase = "The Sexualization of " + media[mediaRan] "'s Characters is Seriously Problematic.";
 		break;
 } 
 

@@ -164,7 +164,8 @@ const ebil = [
 	"Right Libertarian",
 	"Neo-Nazi",
 	"Republican",
-	"4chan"
+	"4channer",
+	"Incel"
 ];
 		
 let phrase;

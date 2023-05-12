@@ -61,7 +61,9 @@ const media = [
 	"Animaniacs",
 	"Tiny Toons",
 	"Gravity Falls",
-	"The Owl House"
+	"The Owl House",
+	"Aqua Teen Hunger Force",
+	"Studio Ghibli"
 ];
 
 const person = [

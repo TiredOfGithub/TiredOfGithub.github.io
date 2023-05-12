@@ -59,7 +59,9 @@ const media = [
 	"Dexter's Laboratory",
 	"Rozen Maiden",
 	"Animaniacs",
-	"Tiny Toons"
+	"Tiny Toons",
+	"Gravity Falls"
+	"The Owl House"
 ];
 
 const person = [
@@ -294,7 +296,7 @@ switch (Math.floor(Math.random() * 39)) {
 				x = bs[bsRan];
 				break;
 		}
-		if ((media[mediaRan] < 29 && media[mediaRan] > 25) || media[mediaRan] == 34) {
+		if ((media[mediaRan].startsWith("The") == true) {
 			phrase = x + " Iceberg: A Deeper Look.";
 		} else {
 			phrase = "The " + x + " Iceberg: A Deeper Look.";

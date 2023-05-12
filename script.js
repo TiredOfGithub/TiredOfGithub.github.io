@@ -298,7 +298,7 @@ switch (Math.floor(Math.random() * 40)) {
 				x = bs[bsRan];
 				break;
 		}
-		if ((media[mediaRan].startsWith("The") == true) {
+		if (media[mediaRan].startsWith("The") == true) {
 			phrase = x + " Iceberg: A Deeper Look.";
 		} else {
 			phrase = "The " + x + " Iceberg: A Deeper Look.";

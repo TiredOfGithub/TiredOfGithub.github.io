@@ -181,7 +181,7 @@ tokenRan = Math.floor(Math.random() * token.length);
 adjectRan = Math.floor(Math.random() * adject.length);
 ebilRan = Math.floor(Math.random() * ebil.length);
 
-switch (Math.floor(Math.random() * 39)) {
+switch (Math.floor(Math.random() * 40)) {
 	case 0:
 		phrase = "The Hidden Genius of " + media[mediaRan] + ".";
 		break;

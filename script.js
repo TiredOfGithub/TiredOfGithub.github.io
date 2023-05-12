@@ -60,7 +60,7 @@ const media = [
 	"Rozen Maiden",
 	"Animaniacs",
 	"Tiny Toons",
-	"Gravity Falls"
+	"Gravity Falls",
 	"The Owl House"
 ];
 

@@ -1,5 +1,5 @@
-// Over 300 lines of spaghetti code
-// Yanderedev would be proud
+// Over 300 lines of spaghetti code.
+// Yanderedev would be proud.
 
 function refreshPage(){
     window.location.reload();
